@@ -21,7 +21,7 @@ fun printInCaps(){
 }
 fun printNumbers(){
     var numb = arrayOf(32, 17,4,213,78,43,90,31,3,73,11,158,62)
-    var sum = (numb[2] + numb[5])
+    var sum = (numb[1] + numb[4])
     println(sum)
     println(numb.indexOf(158))
     println(numb.sortedArray().contentToString())
